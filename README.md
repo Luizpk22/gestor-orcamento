@@ -97,6 +97,30 @@ Este projeto foi desenvolvido para estudo de desenvolvimento backend com Java e 
 - construção de APIs REST
 - manipulação de banco de dados
 
+🚧 Melhorias planejadas
+
+Este projeto continuará evoluindo conforme avanço nos estudos de desenvolvimento backend. Algumas melhorias planejadas incluem:
+
+    📊 Funcionalidades
+    Criar relatórios financeiros mais completos
+    Adicionar filtro por intervalo de datas
+    Criar endpoint para resumo anual de rendas e despesas
+
+    🗄 Banco de Dados
+    Migrar a camada de persistência para Spring Data JPA
+
+    📄 Documentação
+    Adicionar documentação automática da API com Swagger
+    Incluir exemplos de requisições utilizando Postman
+
+    🧪 Testes
+    Implementar testes unitários
+    Adicionar testes de integração para os endpoints
+
+    🐳 DevOps
+    Criar Dockerfile para facilitar a execução da aplicação
+    Criar docker-compose para subir aplicação + banco de dados rapidamente
+
 👨‍💻 Autor
 
 Luiz Henrique da Silva
